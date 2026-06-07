@@ -1,6 +1,6 @@
 Hi😄
 
-Most of my projects live in private repos or outside GitHub, but every now and then I make an effort to open source something.
+Most of my projects live in private repos or outside GitHub, but every now and then I open-source something.
 
 I primarily build tools and systems in C++, with occasional web or Python work sprinkled in.
 
