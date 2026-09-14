@@ -1,9 +1,7 @@
 Hi😄
 
-Most of my projects live in private repos or outside GitHub, but every now and then I open-source something.
+Most of my work is private and lives in private repos or outside of GitHub. Sometimes I'll open-source something if I feel like it.
 
-I primarily build tools and systems in C++, with occasional web or Python work sprinkled in.
+I primarily build tools/systems in C++, with occasional Web and Python work sprinkled in when it's relevant to what I'm working on.
 
 My other lifelong interests include music and playing guitar🎸
-
-If you find my work useful/interesting, consider hitting the follow button! And if you'd like to support me even further, I'd really appreciate a [sponsorship](https://www.github.com/sponsors/TerryS94).♥️
